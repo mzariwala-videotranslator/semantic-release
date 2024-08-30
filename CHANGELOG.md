@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/mzariwala-videotranslator/semantic-release/compare/v1.2.0...v1.3.0) (2024-08-30)
+
+
+### Features
+
+* **pencil:** add 'Test 3 ([21d673f](https://github.com/mzariwala-videotranslator/semantic-release/commit/21d673f59c6a06f5ce06a1a4c77311eb0223c0e1))
+
 # [1.2.0](https://github.com/mzariwala-videotranslator/semantic-release/compare/v1.1.0...v1.2.0) (2024-08-30)
 
 
